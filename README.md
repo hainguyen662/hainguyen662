@@ -55,6 +55,7 @@ I am a DevSecOps/SRE Engineer with 2 years of hands-on experience, specializing 
 * **CI/CD & Security:** Built GitLab CI pipelines with automatic security scans before pushing to DockerHub.
 * **SRE & Reliability:** Implemented liveness/readiness probes, **HPA**.
 * **Networking:** Enforced Zero Trust model via Network Policies.
+* 🔗 [Code](https://github.com/hainguyen662/microservices-demo)
 
 ### 🧠 Cogni-Sim: Graph-Aware Transformer for Binary Code Similarity
 *Academic project applying Deep Learning to software security.*

@@ -8,7 +8,7 @@
 
 ## 📝 About Me
 
-I am a DevSecOps/SRE Engineer with **2 years of hands-on experience**, specializing in building and operating systems on Kubernetes and AWS. I have strong skills in CI/CD automation (GitLab CI), implementing GitOps (ArgoCD), and migrating systems from EC2 to K8s. Currently pursuing a Master's degree in Information Security, I apply a **security-first mindset** to all tasks.
+I am a DevSecOps/SRE Engineer with 2 years of hands-on experience, specializing in building and operating systems on Kubernetes and AWS. I have strong skills in CI/CD automation (GitLab CI), implementing GitOps (ArgoCD), and migrating systems from EC2 to K8s. Currently pursuing a Master's degree in Information Security, I apply a security-first mindset to all tasks.
 
 ### 🎯 Areas of Expertise
 | Domain | Technologies |
@@ -53,7 +53,7 @@ I am a DevSecOps/SRE Engineer with **2 years of hands-on experience**, specializ
 *Full-stack deployment and automation of an 11-tier microservices application.*
 * **IaC & GitOps:** Provisioned K3s cluster and synced entire application via **ArgoCD** (Helm Charts).
 * **CI/CD & Security:** Built GitLab CI pipelines with automatic security scans before pushing to DockerHub.
-* **SRE & Reliability:** Implemented liveness/readiness probes, **HPA**, and **Canary Deployments** via Argo Rollouts.
+* **SRE & Reliability:** Implemented liveness/readiness probes, **HPA**.
 * **Networking:** Enforced Zero Trust model via Network Policies.
 
 ### 🧠 Cogni-Sim: Graph-Aware Transformer for Binary Code Similarity

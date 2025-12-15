@@ -7,7 +7,7 @@ I am a DevSecOps/SRE Engineer with 2 years of hands-on experience, specializing 
 - 🔭 I’m currently working at **INCEPTIONLABS**
 - 🌱 I’m currently learning **Advanced Kubernetes Operators & AI for Security**
 - 🎓 Master's Candidate in Information Security @ **University of Information Technology (VNU-HCM)**
-- 📫 How to reach me: **tfhoaha@gmail.com** or via [LinkedIn](LINK_LINKEDIN_CUA_BAN)
+- 📫 How to reach me: **tfhoaha@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/h%E1%BA%A3i-nguy%E1%BB%85n-ph%C3%BAc-a974b6397/)
 
 ---
 
@@ -26,13 +26,13 @@ I am a DevSecOps/SRE Engineer with 2 years of hands-on experience, specializing 
 
 ### 🚀 Key Projects
 
-#### [Deploying & Operating Google Microservices Demo (End-to-End)](LINK_TO_REPO_NEU_CO)
+#### [Deploying & Operating Google Microservices Demo (End-to-End)](LINK_TO_REPO_MICROSERVICES)
 *Full-stack deployment and automation of an 11-tier microservices application.*
 - **GitOps:** Provisioned K3s cluster & synced via **ArgoCD**.
 - **Security:** Integrated **Trivy** for image scanning & enforced Zero Trust via **Network Policies**.
 - **Reliability:** Configured **HPA** & Canary Deployments via Argo Rollouts.
 
-#### [Cogni-Sim: Graph-Aware Transformer for Binary Code Similarity](LINK_TO_REPO_NEU_CO)
+#### [Cogni-Sim: Graph-Aware Transformer for Binary Code Similarity](LINK_TO_REPO_COGNISIM)
 *Academic research applying Deep Learning to software security.*
 - Developed "Cogni-Sim" model using **PyTorch/TensorFlow**.
 - Essential for vulnerability analysis and malware detection.

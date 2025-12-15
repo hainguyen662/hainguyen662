@@ -85,7 +85,3 @@ I am a DevSecOps/SRE Engineer with **2 years of hands-on experience**, specializ
 * 🔗 [Read Paper on ACM Digital Library](https://dl.acm.org/doi/10.1145/3628797.3628996)
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hainguyen662&show_icons=true&theme=radical" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hainguyen662&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
